@@ -1,6 +1,4 @@
-# CAPSTONE-3-CustomerChurn-MachineLearning
-
-# Repository for  Machine Learning application to E-CommerceCustomer Churn
+## CAPSTONE-3-CustomerChurn-MachineLearning
 
 # E-Commerce Customer Churn Prediction with Machine Learning Classification
 ---
